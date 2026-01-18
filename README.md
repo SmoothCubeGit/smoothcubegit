@@ -8,8 +8,3 @@ I’m a backend developer with a strong passion for networking and server archit
 ![](https://github-readme-stats.vercel.app/api?username=SmoothCubeGit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SmoothCubeGit&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SmoothCubeGit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=SmoothCubeGit&icon=3&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
