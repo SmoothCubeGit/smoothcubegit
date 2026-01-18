@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a backend developer with a strong passion for networking and server architecture. I specialize in building scalable, high-performance systems and enjoy diving deep into protocols, infrastructure, and distributed systems.
+I’m a backend developer with a strong passion for networking and server architecture.
 
 
 # 💻 Tech Stack:
